@@ -12,9 +12,44 @@
 
 ###
 
-<h4 align="left">I'm Mukunda Sai, a passionate AI Developer, Full-Stack Enthusiast, and Open Source Contributor. I'm currently in my 3rd year of B.Sc. Computer Science at CMR Engineering College (CGPA: 8.9), exploring the intersection of full-stack development and AI/ML.<br><br>🚀 What I Do<br>👨‍💻 Full-Stack Web Development: Built civic-tech and market platforms using HTML, CSS, JavaScript, MySQL & Firebase.<br>🤖 AI & Machine Learning: Developed AI-driven disease prediction systems for diabetes, heart disease, Parkinson's, thyroid & lung cancer.<br>🔍 Data Structures & Algorithms<br>💡 Hackathons & Projects: Runner-Up at Vishesh 2025 National Project Expo (600+ projects) | Finalist at Code Quest 2026<br><br>📚 What I'm Learning<br>🏗️ Improving my Python and AI/ML development skills.<br>🎯 Exploring Generative AI and LLMs.<br>⚡ Building real-world AI applications with Streamlit and Scikit-learn.<br><br>🏆 Highlights<br>🥈 2nd Prize (Runner-Up) — Vishesh 2025 National Project Expo (600+ projects)<br>🏅 Top 60 Teams — Convergence Software Hackathon, VNRVJIET (320+ teams)<br>🎖️ Silver Badge in Java — IIT Kharagpur (NPTEL)<br>☁️ Google Cloud Career Launchpad — Data Analytics Track<br>🤝 AI Developer Intern — Viswam.AI @ IIIT Hyderabad (June 2025)<br>🌐 Unstop Campus Ambassador — 100+ student registrations driven</h4>
+<h4 align="left">I'm Mukunda Sai, a passionate AI Developer, Full-Stack Enthusiast, and Open Source Contributor. I'm currently in my <b>4th year</b> of B.Sc. Computer Science at CMR Engineering College (CGPA: 8.9), exploring the intersection of full-stack development and AI/ML.<br><br>🚀 What I Do<br>👨‍💻 Full-Stack Web Development: Built civic-tech and market platforms using HTML, CSS, JavaScript, MySQL & Firebase.<br>🤖 AI & Machine Learning: Developed AI-driven disease prediction systems for diabetes, heart disease, Parkinson's, thyroid & lung cancer.<br>🔍 Data Structures & Algorithms<br>💡 Hackathons & Projects: Runner-Up at Vishesh 2025 National Project Expo (600+ projects) | Finalist at Code Quest 2026<br><br>📚 What I'm Learning<br>🏗️ Improving my Python and AI/ML development skills.<br>🎯 Exploring Generative AI and LLMs.<br>⚡ Building real-world AI applications with Streamlit and Scikit-learn.<br><br>🏆 Highlights<br>🥈 2nd Prize (Runner-Up) — Vishesh 2025 National Project Expo (600+ projects)<br>🏅 Top 60 Teams — Convergence Software Hackathon, VNRVJIET (320+ teams)<br>🎖️ Silver Badge in Java — IIT Kharagpur (NPTEL)<br>☁️ Google Cloud Career Launchpad — Data Analytics Track<br>🤝 AI Developer Intern — Viswam.AI @ IIIT Hyderabad (June 2025)<br>🌐 Unstop Campus Ambassador — 100+ student registrations driven</h4>
 
 ###
+
+---
+
+<h2 align="center">🚀 𝗘𝘅𝗽𝗲𝗿𝗶𝗲𝗻𝗰𝗲 & 𝗥𝗲𝗰𝗼𝗴𝗻𝗶𝘁𝗶𝗼𝗻</h2>
+
+<table align="center">
+<tr>
+<td valign="top" width="50%">
+
+**🎓 Programs & Internships**
+
+🤖 **AI Developer Intern** — Viswam.AI @ IIIT Hyderabad *(June 2025)*<br>
+🏢 **Infosys Springboard Intern** — Hands-on industry training<br>
+📘 **McKinsey Forward 2025** — Leadership & professional development<br>
+☁️ **Google Cloud Career Launchpad** — Data Analytics Track<br>
+🎓 **Amazon ML School '25 Alum** — Machine Learning program by Amazon
+
+</td>
+<td valign="top" width="50%">
+
+**🌐 Communities & Leadership**
+
+🔷 **Microsoft Learn Student Ambassador (MLSA)**<br>
+🔷 **Google Developer Student Club (GDSC)** — SDE Role<br>
+🔷 **Google Women Techmakers (WTM)** — Active Member<br>
+🔷 **IFREP** — Active Member<br>
+✍️ **Lead & Content Writer** — Elite Coders<br>
+🌱 **Founder** — iLearn Community<br>
+🌐 **Unstop Campus Ambassador** — 100+ registrations driven
+
+</td>
+</tr>
+</table>
+
+---
 
 <h2 align="left">🛠️ I code with</h2>
 
@@ -39,8 +74,6 @@
 </tr></table>
 
 ###
-
-<br clear="both">
 
 ---
 
