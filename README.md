@@ -25,13 +25,11 @@
 <td valign="top" width="50%">
 
 **🎓 Programs & Internships**
-
-🤖 **AI Developer Intern** — Viswam.AI @ IIIT Hyderabad *(June 2025)*<br>
-🏢 **Infosys Springboard Intern** — Hands-on industry training<br>
-📘 **McKinsey Forward 2025** — Leadership & professional development<br>
-☁️ **Google Cloud Career Launchpad** — Data Analytics Track<br>
-🎓 **Amazon ML School '25 Alum** — Machine Learning program by Amazon
-
+**AI Developer Intern — [Viswam.AI](http://Viswam.AI) @ IIIT Hyderabad** *(June 2025)*
+- Mastered Python for AI by building real-world applications using modern DevOps tools and workflows.
+- Actively contributed to open-source AI projects, promoting ethical and accessible AI.
+- Developed an AI-driven disease prediction system for diabetes, heart disease, thyroid disorders, Parkinson's, and lung cancer.
+- Designed and deployed an interactive Streamlit web app for real-time medical diagnostics.
 </td>
 <td valign="top" width="50%">
 
