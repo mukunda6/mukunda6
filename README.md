@@ -30,21 +30,7 @@
 - Actively contributed to open-source AI projects, promoting ethical and accessible AI.
 - Developed an AI-driven disease prediction system for diabetes, heart disease, thyroid disorders, Parkinson's, and lung cancer.
 - Designed and deployed an interactive Streamlit web app for real-time medical diagnostics.
-</td>
-<td valign="top" width="50%">
 
-**🌐 Communities & Leadership**
-
-🔷 **Microsoft Learn Student Ambassador (MLSA)**<br>
-🔷 **Google Developer Student Club (GDSC)** — SDE Role<br>
-🔷 **Google Women Techmakers (WTM)** — Active Member<br>
-🔷 **IFREP** — Active Member<br>
-✍️ **Lead & Content Writer** — Elite Coders<br>
-🌱 **Founder** — iLearn Community<br>
-🌐 **Unstop Campus Ambassador** — 100+ registrations driven
-
-</td>
-</tr>
 </table>
 
 ---
