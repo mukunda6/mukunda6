@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Mothku Mukunda Sai</h1>
 
-
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+ 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mukunda6&label=Profile%20views&color=0e75b6&style=flat" alt="mukunda6" /> 
 </div>
@@ -10,7 +11,7 @@
   <img height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNGl5ajNxNzRvOWJmdTFqYXZpeG1pNGV2eXUzb2R2Mjg4cXZud2VvMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/78XCFBGOlS6keY1Bil/giphy.gif" />
 </div>
 
-###
+ <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 <h1 align="left">Hey 👋 What's up?</h1>
 
@@ -19,8 +20,9 @@
 <h4 align="left">I'm Mukunda Sai, a passionate AI Developer, Full-Stack Enthusiast, and Open Source Contributor. I'm currently in my <b>4th year</b> of B.Sc. Computer Science at CMR Engineering College (CGPA: 8.9), exploring the intersection of full-stack development and AI/ML.<br><br>🚀 What I Do<br>👨‍💻 Full-Stack Web Development: Built civic-tech and market platforms using HTML, CSS, JavaScript, MySQL & Firebase.<br>🤖 AI & Machine Learning: Developed AI-driven disease prediction systems for diabetes, heart disease, Parkinson's, thyroid & lung cancer.<br>🔍 Data Structures & Algorithms<br>💡 Hackathons & Projects: Runner-Up at Vishesh 2025 National Project Expo (600+ projects) | Finalist at Code Quest 2026<br><br>📚 What I'm Learning<br>🏗️ Improving my Python and AI/ML development skills.<br>🎯 Exploring Generative AI and LLMs.<br>⚡ Building real-world AI applications with Streamlit and Scikit-learn.<br><br>🏆 Highlights<br>🥈 2nd Prize (Runner-Up) — Vishesh 2025 National Project Expo (600+ projects)<br>🏅 Top 60 Teams — Convergence Software Hackathon, VNRVJIET (320+ teams)<br>🎖️ Silver Badge in Java — IIT Kharagpur (NPTEL)<br>☁️ Google Cloud Career Launchpad — Data Analytics Track<br>🤝 AI Developer Intern — Viswam.AI @ IIIT Hyderabad (June 2025)<br>🌐 Unstop Campus Ambassador — 100+ student registrations driven</h4>
 
 ###
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
+
 <h2 align="left">🛠️ Tech Stack</h2>
 
 ### 💻 Languages
@@ -38,13 +40,13 @@
 ### 🤖 AI & Automation
 <table align="left">
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/-Agentic%20AI-6C47FF?style=flat-square"/></td>
-<td align="center"><img src="https://www.google.com/s2/favicons?domain=lyzr.ai&sz=64" height="30" alt="Lyzr"/><br>Lyzr</td>
-<td align="center"><img src="https://img.shields.io/badge/-Generative%20AI-9146FF?style=flat-square"/></td>
+<td align="center"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f916.svg" height="40" alt="Agentic AI"/><br>Agentic AI</td>
+<td align="center"><img src="https://www.google.com/s2/favicons?domain=lyzr.ai&sz=64" height="40" alt="Lyzr"/><br>Lyzr</td>
+<td align="center"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/2728.svg" height="40" alt="Generative AI"/><br>Generative AI</td>
 </tr>
 <tr>
-<td align="center"><img src="https://img.shields.io/badge/-LLM-0A66C2?style=flat-square"/></td>
-<td align="center" colspan="2"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ollama/ollama-original.svg" height="40" alt="Ollama"/><br>Ollama</td>
+<td align="center"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f9e0.svg" height="40" alt="LLM"/><br>LLM</td>
+<td align="center" colspan="2" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/ollama/ollama/main/docs/ollama-logo.svg" height="40" alt="Ollama"/><br><span style="color:black">Ollama</span></td>
 </tr>
 </table>
 
@@ -99,26 +101,22 @@
 <br clear="both"/>
 
 ###
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
----
 
 ## 🚀 Projects
 
 ### 🏙️ [Civic Issue Reporting System](https://github.com/mukunda6) | HTML, CSS, JavaScript, MySQL, Firebase *(2025)*
-- Web-based platform for citizens to report and track civic issues like road damage and waste management.
-- Implemented issue submission, status tracking, and complaint management features.
-- Integrated MySQL for storing user reports and Firebase for admin dataset integration.
+- A web platform for citizens to report and track civic issues like road damage and waste management, with status tracking and complaint management backed by MySQL and Firebase.
 
 ### 📊 [View Market](https://github.com/mukunda6) | HTML, CSS, JavaScript *(April 2025)*
-- Dynamic web page displaying real-time price updates for vegetables, metals, meat, and fuels in India.
-- Integrated APIs and interactive UI elements for enhanced data visualization.
+- A dynamic web page showing real-time price updates for vegetables, metals, meat, and fuels across India with an interactive, API-driven UI.
 
 ### 🏥 [AI-Powered Medical Diagnosis System](https://github.com/mukunda6) | Python, Streamlit, Scikit-learn *(February 2025)*
-- AI-driven disease prediction system for diagnosing 5 major conditions.
-- Deployed on Streamlit Cloud, enhancing accessibility for healthcare professionals.
-- Improved diagnostic accuracy, speed, and cost-effectiveness in medical diagnostics.
+- An AI-driven disease prediction system for 5 major conditions, deployed on Streamlit Cloud to improve diagnostic accuracy, speed, and accessibility for healthcare professionals.
 
----
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 
 ## 🏆 Achievements & Certifications
 
@@ -133,8 +131,8 @@
 - 🖥️ **Event Organizer** — Microsoft Student Innovation
 - 📋 **Student Coordinator** — E-Cherish 2026
 
----
 
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 <br clear="both">
 
 <h3 align="center">🌐 Connect with me</h3>
@@ -146,4 +144,4 @@
 <td align="center"><a href="https://www.codechef.com/users/mukunda66" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" height="40" alt="CodeChef"/><br>CodeChef</a></td>
 </tr></table>
 
----
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
