@@ -24,62 +24,6 @@
 <tr>
 <td valign="top" width="50%">
 
-**🎓 Programs & Internships**
-**AI Developer Intern — [Viswam.AI](http://Viswam.AI) @ IIIT Hyderabad** *(June 2025)*
-- Mastered Python for AI by building real-world applications using modern DevOps tools and workflows.
-- Actively contributed to open-source AI projects, promoting ethical and accessible AI.
-- Developed an AI-driven disease prediction system for diabetes, heart disease, thyroid disorders, Parkinson's, and lung cancer.
-- Designed and deployed an interactive Streamlit web app for real-time medical diagnostics.
-
-</table>
-
----
-
-<h2 align="left">🛠️ I code with</h2>
-
-###
-
-<table align="center"><tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/><br>Python</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><br>JavaScript</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="Java"/><br>Java</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/><br>C++</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5"/><br>HTML5</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3"/><br>CSS3</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL"/><br>MySQL</td>
-</tr><tr>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/><br>Firebase</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/><br>Anaconda</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/><br>Jupyter</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle"/><br>Kaggle</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="Git"/><br>Git</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="GitHub"/><br>GitHub</td>
-<td align="center"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/><br>VS Code</td>
-</tr></table>
-<h3 align="center">🧰 Languages and Tools</h3>
-
-<table align="center"><tr>
-<td align="center"><a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/><br>Python</a></td>
-<td align="center"><a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/><br>C++</a></td>
-<td align="center"><a href="https://www.java.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/><br>Java</a></td>
-<td align="center"><a href="https://www.w3.org/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5"/><br>HTML5</a></td>
-<td align="center"><a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3"/><br>CSS3</a></td>
-<td align="center"><a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/><br>MySQL</a></td>
-<td align="center"><a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="40" alt="Firebase"/><br>Firebase</a></td>
-</tr><tr>
-<td align="center"><a href="https://streamlit.io/" target="_blank"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" alt="Streamlit"/><br>Streamlit</a></td>
-<td align="center"><a href="https://scikit-learn.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/><br>Scikit-learn</a></td>
-<td align="center"><a href="https://cloud.google.com" target="_blank"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="GCP"/><br>GCP</a></td>
-<td align="center"><a href="https://git-scm.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/><br>Git</a></td>
-<td align="center"><a href="https://code.visualstudio.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/><br>VS Code</a></td>
-<td align="center"><a href="https://www.anaconda.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/><br>Anaconda</a></td>
-<td align="center"><a href="https://jupyter.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/><br>Jupyter</a></td>
-</tr></table>
-
-###
-
----
-
 ## 💼 Experience
 
 **AI Developer Intern — [Viswam.AI](http://Viswam.AI) @ IIIT Hyderabad** *(June 2025)*
@@ -88,6 +32,63 @@
 - Developed an AI-driven disease prediction system for diabetes, heart disease, thyroid disorders, Parkinson's, and lung cancer.
 - Designed and deployed an interactive Streamlit web app for real-time medical diagnostics.
 
+---
+
+</table>
+
+---
+<h2 align="left">🛠️ Tech Stack</h2>
+
+### 💻 Languages
+<table align="center"><tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/><br>Python</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/><br>Java</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/><br>C++</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="SQL"/><br>SQL</td>
+</tr></table>
+
+### 🤖 AI & Automation
+<table align="center"><tr>
+<td align="center"><img src="https://img.shields.io/badge/-Agentic%20AI-6C47FF?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/Lyzr-Agentic%20Studio-6C47FF?style=flat-square" alt="Lyzr Agentic Studio"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Generative%20AI-9146FF?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-LLM-0A66C2?style=flat-square"/></td>
+<td align="center"><img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/></td>
+</tr></table>
+
+### 🗄️ Database
+<table align="center"><tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/><br>MySQL</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/><br>Firebase</td>
+</tr></table>
+
+### 🧰 Tools
+<table align="center"><tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/><br>Git</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub"/><br>GitHub</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/><br>VS Code</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/><br>Eclipse</td>
+</tr><tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/><br>Anaconda</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/><br>Jupyter</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle"/><br>Kaggle</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="GCP"/><br>GCP</td>
+</tr></table>
+
+### 📚 Libraries
+<table align="center"><tr>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/><br>Scikit-learn</td>
+</tr></table>
+
+### 🎨 Frontend Development
+<table align="center"><tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5"/><br>HTML</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3"/><br>CSS</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><br>JavaScript</td>
+<td align="center"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" alt="Streamlit"/><br>Streamlit</td>
+</tr></table>
+
+###
 ---
 
 ## 🚀 Projects
