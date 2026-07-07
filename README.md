@@ -23,93 +23,80 @@
 ---
 <h2 align="left">🛠️ Tech Stack</h2>
 
-<table align="center" border="0" cellspacing="0" cellpadding="0">
-
-<tr>
-<td valign="top" width="45%">
-
 ### 💻 Languages
-<table align="center" border="0" cellspacing="8" cellpadding="10"><tr>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/><br>Python</td>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/><br>Java</td>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/><br>C++</td>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="SQL"/><br>SQL</td>
-</tr></table>
+<table align="left">
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/><br>Python</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" alt="Java"/><br>Java</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" height="40" alt="C++"/><br>C++</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="SQL"/><br>SQL</td>
+</tr>
+</table>
 
-</td>
-<td width="10%"></td>
-<td valign="top" width="45%">
+<br clear="both"/>
 
 ### 🤖 AI & Automation
-<table align="center" border="0" cellspacing="8" cellpadding="10"><tr>
-<td align="center" bgcolor="#ffffff"><img src="https://img.shields.io/badge/-Agentic%20AI-6C47FF?style=flat-square"/></td>
-<td align="center" bgcolor="#ffffff"><img src="https://www.google.com/s2/favicons?domain=lyzr.ai&sz=64" height="30" alt="Lyzr Agentic Studio"/><br>Lyzr</td>
-</tr><tr>
-<td align="center" bgcolor="#ffffff"><img src="https://img.shields.io/badge/-Generative%20AI-9146FF?style=flat-square"/></td>
-<td align="center" bgcolor="#ffffff"><img src="https://img.shields.io/badge/-LLM-0A66C2?style=flat-square"/></td>
-</tr><tr>
-<td align="center" colspan="2" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ollama/ollama-original.svg" height="40" alt="Ollama"/><br>Ollama</td>
-</tr></table>
-
-</td>
-</tr>
-
-<tr><td colspan="3">&nbsp;</td></tr>
-
+<table align="left">
 <tr>
-<td valign="top" width="45%">
+<td align="center"><img src="https://img.shields.io/badge/-Agentic%20AI-6C47FF?style=flat-square"/></td>
+<td align="center"><img src="https://www.google.com/s2/favicons?domain=lyzr.ai&sz=64" height="30" alt="Lyzr"/><br>Lyzr</td>
+<td align="center"><img src="https://img.shields.io/badge/-Generative%20AI-9146FF?style=flat-square"/></td>
+</tr>
+<tr>
+<td align="center"><img src="https://img.shields.io/badge/-LLM-0A66C2?style=flat-square"/></td>
+<td align="center" colspan="2"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ollama/ollama-original.svg" height="40" alt="Ollama"/><br>Ollama</td>
+</tr>
+</table>
+
+<br clear="both"/>
 
 ### 🗄️ Database
-<table align="center" border="0" cellspacing="8" cellpadding="10"><tr>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/><br>MySQL</td>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/><br>Firebase</td>
-</tr></table>
+<table align="left">
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/><br>MySQL</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/><br>Firebase</td>
+</tr>
+</table>
 
-</td>
-<td width="10%"></td>
-<td valign="top" width="45%">
+<br clear="both"/>
 
 ### 🧰 Tools
-<table align="center" border="0" cellspacing="8" cellpadding="10"><tr>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/><br>Git</td>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub"/><br>GitHub</td>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/><br>VS Code</td>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/><br>Eclipse</td>
-</tr><tr>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/><br>Anaconda</td>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/><br>Jupyter</td>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle"/><br>Kaggle</td>
-<td align="center" bgcolor="#ffffff"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="GCP"/><br>GCP</td>
-</tr></table>
-
-</td>
-</tr>
-
-<tr><td colspan="3">&nbsp;</td></tr>
-
+<table align="left">
 <tr>
-<td valign="top" width="45%">
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" height="40" alt="Git"/><br>Git</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub"/><br>GitHub</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/><br>VS Code</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/><br>Eclipse</td>
+</tr>
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/><br>Anaconda</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/><br>Jupyter</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle"/><br>Kaggle</td>
+<td align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="GCP"/><br>GCP</td>
+</tr>
+</table>
+
+<br clear="both"/>
 
 ### 📚 Libraries
-<table align="center" border="0" cellspacing="8" cellpadding="10"><tr>
-<td align="center" bgcolor="#ffffff"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/><br>Scikit-learn</td>
-</tr></table>
+<table align="left">
+<tr>
+<td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/><br>Scikit-learn</td>
+</tr>
+</table>
 
-</td>
-<td width="10%"></td>
-<td valign="top" width="45%">
+<br clear="both"/>
 
 ### 🎨 Frontend Development
-<table align="center" border="0" cellspacing="8" cellpadding="10"><tr>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5"/><br>HTML</td>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3"/><br>CSS</td>
-<td align="center" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><br>JavaScript</td>
-</tr></table>
-
-</td>
+<table align="left">
+<tr>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5"/><br>HTML</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3"/><br>CSS</td>
+<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><br>JavaScript</td>
 </tr>
-
 </table>
+
+<br clear="both"/>
 
 ###
 
