@@ -42,9 +42,7 @@
 <td align="center"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f916.svg" height="40" alt="Agentic AI"/><br>Agentic AI</td>
 <td align="center"><img src="https://www.google.com/s2/favicons?domain=lyzr.ai&sz=64" height="40" alt="Lyzr"/><br>Lyzr</td>
 <td align="center"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/2728.svg" height="40" alt="Generative AI"/><br>Generative AI</td>
-</tr>
-<tr>
-<td align="center"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f9e0.svg" height="40" alt="LLM"/><br>LLM</td>
+ <td align="center"><img src="https://cdnjs.cloudflare.com/ajax/libs/twemoji/14.0.2/svg/1f9e0.svg" height="40" alt="LLM"/><br>LLM</td>
 <td align="center" colspan="2" bgcolor="#ffffff"><img src="https://raw.githubusercontent.com/ollama/ollama/main/docs/ollama-logo.svg" height="40" alt="Ollama"/><br><span style="color:black">Ollama</span></td>
 </tr>
 </table>
@@ -68,9 +66,7 @@
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" height="40" alt="GitHub"/><br>GitHub</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" alt="VS Code"/><br>VS Code</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/eclipse/eclipse-original.svg" height="40" alt="Eclipse"/><br>Eclipse</td>
-</tr>
-<tr>
-<td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/><br>Anaconda</td>
+ <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/anaconda/anaconda-original.svg" height="40" alt="Anaconda"/><br>Anaconda</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jupyter/jupyter-original.svg" height="40" alt="Jupyter"/><br>Jupyter</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kaggle/kaggle-original.svg" height="40" alt="Kaggle"/><br>Kaggle</td>
 <td align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="GCP"/><br>GCP</td>
