@@ -39,6 +39,11 @@
 ---
 <h2 align="left">🛠️ Tech Stack</h2>
 
+<table align="center">
+
+<tr>
+<td valign="top" width="45%">
+
 ### 💻 Languages
 <table align="center"><tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" alt="Python"/><br>Python</td>
@@ -47,20 +52,38 @@
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="SQL"/><br>SQL</td>
 </tr></table>
 
+</td>
+<td width="10%"></td>
+<td valign="top" width="45%">
+
 ### 🤖 AI & Automation
 <table align="center"><tr>
 <td align="center"><img src="https://img.shields.io/badge/-Agentic%20AI-6C47FF?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/Lyzr-Agentic%20Studio-6C47FF?style=flat-square" alt="Lyzr Agentic Studio"/></td>
+<td align="center"><img src="https://www.google.com/s2/favicons?domain=lyzr.ai&sz=64" height="30" alt="Lyzr Agentic Studio"/><br>Lyzr</td>
+</tr><tr>
 <td align="center"><img src="https://img.shields.io/badge/-Generative%20AI-9146FF?style=flat-square"/></td>
 <td align="center"><img src="https://img.shields.io/badge/-LLM-0A66C2?style=flat-square"/></td>
-<td align="center"><img src="https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/></td>
+</tr><tr>
+<td align="center" colspan="2"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ollama/ollama-original.svg" height="40" alt="Ollama"/><br>Ollama</td>
 </tr></table>
+
+</td>
+</tr>
+
+<tr><td colspan="3">&nbsp;</td></tr>
+
+<tr>
+<td valign="top" width="45%">
 
 ### 🗄️ Database
 <table align="center"><tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" height="40" alt="MySQL"/><br>MySQL</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/firebase/firebase-plain.svg" height="40" alt="Firebase"/><br>Firebase</td>
 </tr></table>
+
+</td>
+<td width="10%"></td>
+<td valign="top" width="45%">
 
 ### 🧰 Tools
 <table align="center"><tr>
@@ -75,18 +98,34 @@
 <td align="center"><img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" height="40" alt="GCP"/><br>GCP</td>
 </tr></table>
 
+</td>
+</tr>
+
+<tr><td colspan="3">&nbsp;</td></tr>
+
+<tr>
+<td valign="top" width="45%">
+
 ### 📚 Libraries
 <table align="center"><tr>
 <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" height="40" alt="Scikit-learn"/><br>Scikit-learn</td>
 </tr></table>
+
+</td>
+<td width="10%"></td>
+<td valign="top" width="45%">
 
 ### 🎨 Frontend Development
 <table align="center"><tr>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="HTML5"/><br>HTML</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="CSS3"/><br>CSS</td>
 <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="JavaScript"/><br>JavaScript</td>
-<td align="center"><img src="https://streamlit.io/images/brand/streamlit-mark-color.svg" height="40" alt="Streamlit"/><br>Streamlit</td>
 </tr></table>
+
+</td>
+</tr>
+
+</table>
 
 ###
 ---
@@ -125,16 +164,6 @@
 ---
 
 <br clear="both">
-
-<div align="center">
-  <img src="https://profile-counter.glitch.me/singhalansh/count.svg?" />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/singhalansh/singhalansh/output/snake.svg" alt="Snake animation" />
-
-###
 
 <h3 align="center">🌐 Connect with me</h3>
 
