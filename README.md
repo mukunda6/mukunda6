@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mothku Mukunda Sai</h1>
- <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
+ 
  
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mukunda6&label=Profile%20views&color=0e75b6&style=flat" alt="mukunda6" /> 
